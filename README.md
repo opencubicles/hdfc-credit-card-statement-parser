@@ -1,6 +1,7 @@
 # HDFC Credit Card Statement Parser
 
-This project provides a Python script to parse HDFC credit card statements from a PDF file and convert the data into a CSV format.
+This repository contains a Python script for parsing HDFC credit card statements from PDF files and converting them into CSV format. This is particularly useful for accountants and finance professionals who need to analyze or present credit card transactions in Excel. By automating the extraction of both domestic and international transactions, this tool saves time and reduces manual effort, ensuring accurate and efficient financial reporting.
+
 
 ## Features
 - Extracts both domestic and international transactions from HDFC credit card statements.
